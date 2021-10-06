@@ -71,5 +71,12 @@
     "fromTo": "Bogota DC - Cali",
     "price": "400",
     "img": "Img3"
+  },
+  {
+    "id": "3",
+    "title": "Cartagena",
+    "fromTo": "Bogota DC - Cartagena",
+    "price": "160",
+    "img": "Img4"
   }]
 }
