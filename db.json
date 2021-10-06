@@ -49,41 +49,5 @@
     "name": "Sophia",
     "lastName": "Martinez",
     "profession": "Teacher"
-  }],
-  "Flights": [
-  {
-    "id": "0",
-    "title": "Miami",
-    "fromTo": "Bogota DC - Miami",
-    "price": "3000",
-    "img": "Img1"
-  },
-  {
-    "id": "1",
-    "title": "Cancun",
-    "fromTo": "Bogota DC - Cancun",
-    "price": "200",
-    "img": "Img2"
-  },
-  {
-    "id": "2",
-    "title": "Cali",
-    "fromTo": "Bogota DC - Cali",
-    "price": "400",
-    "img": "Img3"
-  },
-  {
-    "id": "3",
-    "title": "Cartagena",
-    "fromTo": "Bogota DC - Cartagena",
-    "price": "160",
-    "img": "Img4"
-  },
-  {
-    "id": "4",
-    "title": "Paris",
-    "fromTo": "Bogota DC - Paris",
-    "price": "3900",
-    "img": "Img5"
   }]
 }
